@@ -1,55 +1,73 @@
-# ☕ Java Practice Questions
+# ☕ Java Mastery & Algorithms
 
-This repository contains my solutions to various Java programming exercises and logic problems.
+This repository serves as a comprehensive collection of my Java programming journey, covering everything from core fundamentals to advanced multi-threaded systems and algorithmic analysis.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Key Learning Modules
 
-To run these files locally, ensure you have the **JDK** installed.
-```bash
-# Compile a file
-javac FileName.java
+### 1. Core Java & OOPs
+- Implementation of Inheritance, Polymorphism, Abstraction, and Encapsulation.
+- Exception Handling and Custom Exception classes.
 
-# Run the program
-java FileName
+### 2. Multithreading & Concurrency
+- **Thread Lifecycle:** Managing states from New to Terminated.
+- **Synchronization:** Solving Race Conditions using `synchronized` blocks and locks.
+- **Inter-thread Communication:** Implementing the Producer-Consumer pattern using `wait()` and `notify()`.
+
+### 3. DAA (Design and Analysis of Algorithms)
+- **Master Method:** Solving recurrence relations for algorithmic complexity.
+- **Sorting:** Java implementations of Merge Sort, Quick Sort, and Heap Sort.
+- **Optimization:** Analyzing time and space complexity (`O(n)`, `O(log n)`).
+
+### 4. AI-Augmented Development
+- Using AI tools like ChatGPT and Claude for explaining complex Java syntax and debugging logical errors.
+- Leveraging GitHub Copilot for generating boilerplate code and unit test cases.
+
+---
+
+## 📂 Project Structure
+
 ```
-
----
-
-## 📂 Contents
-
-- **Basic Logic** – Loops, Conditionals, and Patterns
-- **OOPs** – Classes, Inheritance, and Interfaces
-- **Data Structures** – Arrays, Strings, and Collections
+├── Basic_Logic/          # Loops, Conditionals, and Patterns
+├── OOPs_Concepts/        # Classes, Interfaces, and Inheritance
+├── Multithreading/       # Concurrency, Synchronization, and Deadlocks
+├── DAA_Algorithms/       # Master Method, Sorting, and Searching
+└── README.md
+```
 
 ---
 
 ## 🛠️ Requirements
 
-- Java Development Kit (JDK) 11 or higher
-- An IDE (IntelliJ, Eclipse, or VS Code)
+- JDK 17 or higher *(recommended for modern Java features)*
+- IDE: IntelliJ IDEA, Eclipse, or VS Code with Java Extension Pack
+- Build Tool: Maven or Gradle *(optional)*
 
 ---
 
-## 📌 How to Use
+## 📌 Installation & Usage
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
-   git clone https://github.com/ankurfsdv-arch/java.git
+git clone https://github.com/ankurfsdv-arch/java.git
 ```
-2. Navigate to the folder:
+
+2. **Navigate to a specific module:**
 ```bash
-   cd java
+cd java/Multithreading
 ```
-3. Compile and run any file:
+
+3. **Compile and run:**
 ```bash
-   javac FileName.java
-   java FileName
+javac ProducerConsumer.java
+java ProducerConsumer
 ```
 
 ---
 
-## 🙋‍♂️ Author
+## 👨‍💻 Connect with Me
 
-**Ankur** – [GitHub Profile](https://github.com/ankurfsdv-arch)
+- **Developer:** Ankur Yadav — [GitHub Profile](https://github.com/ankurfsdv-arch)
+- **Email:** ankurcse437@gmail.com
+- **Portfolio:** [ankuryadav.vercel.app](https://ankuryadav.vercel.app)
