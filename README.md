@@ -1,10 +1,10 @@
-# ☕ Java Mastery & Algorithms
+#  Java Mastery & Algorithms
 
 This repository serves as a comprehensive collection of my Java programming journey, covering everything from core fundamentals to advanced multi-threaded systems and algorithmic analysis.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── Basic_Logic/          # Loops, Conditionals, and Patterns
@@ -16,7 +16,7 @@ This repository serves as a comprehensive collection of my Java programming jour
 
 ---
 
-## 📁 Module 1 — Basic Logic
+## Module 1 — Basic Logic
 
 > Covers fundamental programming constructs: loops, conditionals, and pattern printing.
 
